@@ -1,0 +1,1506 @@
+{
+  "users": [
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d10"
+      },
+      "userId": "IYOZJg1j",
+      "email": "john.smith@example.com",
+      "firstName": "John",
+      "lastName": "Smith",
+      "role": "instructor",
+      "dateJoined": {
+        "$date": "2024-10-24T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional instructor with expertise in various fields",
+        "avatar": "https://example.com/avatars/0.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d11"
+      },
+      "userId": "OKAvOkc4",
+      "email": "jane.johnson@example.com",
+      "firstName": "Jane",
+      "lastName": "Johnson",
+      "role": "instructor",
+      "dateJoined": {
+        "$date": "2025-01-31T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional instructor with expertise in various fields",
+        "avatar": "https://example.com/avatars/1.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d12"
+      },
+      "userId": "FzZYR9lV",
+      "email": "michael.williams@example.com",
+      "firstName": "Michael",
+      "lastName": "Williams",
+      "role": "instructor",
+      "dateJoined": {
+        "$date": "2025-01-23T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional instructor with expertise in various fields",
+        "avatar": "https://example.com/avatars/2.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d13"
+      },
+      "userId": "sw8nyHbj",
+      "email": "sarah.brown@example.com",
+      "firstName": "Sarah",
+      "lastName": "Brown",
+      "role": "instructor",
+      "dateJoined": {
+        "$date": "2025-03-11T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional instructor with expertise in various fields",
+        "avatar": "https://example.com/avatars/3.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d14"
+      },
+      "userId": "ZyGoUOED",
+      "email": "david.jones@example.com",
+      "firstName": "David",
+      "lastName": "Jones",
+      "role": "instructor",
+      "dateJoined": {
+        "$date": "2025-06-07T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional instructor with expertise in various fields",
+        "avatar": "https://example.com/avatars/4.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d15"
+      },
+      "userId": "qanIeWIS",
+      "email": "emma.garcia@example.com",
+      "firstName": "Emma",
+      "lastName": "Garcia",
+      "role": "student",
+      "dateJoined": {
+        "$date": "2024-12-17T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional student with expertise in various fields",
+        "avatar": "https://example.com/avatars/5.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d16"
+      },
+      "userId": "QikXVqEz",
+      "email": "james.miller@example.com",
+      "firstName": "James",
+      "lastName": "Miller",
+      "role": "student",
+      "dateJoined": {
+        "$date": "2025-01-26T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional student with expertise in various fields",
+        "avatar": "https://example.com/avatars/6.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d17"
+      },
+      "userId": "yL5BbI9D",
+      "email": "lisa.davis@example.com",
+      "firstName": "Lisa",
+      "lastName": "Davis",
+      "role": "student",
+      "dateJoined": {
+        "$date": "2024-11-27T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional student with expertise in various fields",
+        "avatar": "https://example.com/avatars/7.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d18"
+      },
+      "userId": "OZOXZ5T3",
+      "email": "robert.rodriguez@example.com",
+      "firstName": "Robert",
+      "lastName": "Rodriguez",
+      "role": "student",
+      "dateJoined": {
+        "$date": "2025-05-26T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional student with expertise in various fields",
+        "avatar": "https://example.com/avatars/8.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d19"
+      },
+      "userId": "wCTQd2Dr",
+      "email": "mary.martinez@example.com",
+      "firstName": "Mary",
+      "lastName": "Martinez",
+      "role": "student",
+      "dateJoined": {
+        "$date": "2024-08-05T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional student with expertise in various fields",
+        "avatar": "https://example.com/avatars/9.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d1a"
+      },
+      "userId": "H3Hij8Ln",
+      "email": "chris.hernandez@example.com",
+      "firstName": "Chris",
+      "lastName": "Hernandez",
+      "role": "student",
+      "dateJoined": {
+        "$date": "2024-06-27T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional student with expertise in various fields",
+        "avatar": "https://example.com/avatars/10.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d1b"
+      },
+      "userId": "waAaNv2S",
+      "email": "anna.lopez@example.com",
+      "firstName": "Anna",
+      "lastName": "Lopez",
+      "role": "student",
+      "dateJoined": {
+        "$date": "2024-11-07T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional student with expertise in various fields",
+        "avatar": "https://example.com/avatars/11.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d1c"
+      },
+      "userId": "W71zCVjt",
+      "email": "brian.gonzalez@example.com",
+      "firstName": "Brian",
+      "lastName": "Gonzalez",
+      "role": "student",
+      "dateJoined": {
+        "$date": "2024-12-29T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional student with expertise in various fields",
+        "avatar": "https://example.com/avatars/12.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d1d"
+      },
+      "userId": "V2JfoVH8",
+      "email": "olivia.wilson@example.com",
+      "firstName": "Olivia",
+      "lastName": "Wilson",
+      "role": "student",
+      "dateJoined": {
+        "$date": "2025-02-25T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional student with expertise in various fields",
+        "avatar": "https://example.com/avatars/13.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d1e"
+      },
+      "userId": "96VfJnOh",
+      "email": "kevin.anderson@example.com",
+      "firstName": "Kevin",
+      "lastName": "Anderson",
+      "role": "student",
+      "dateJoined": {
+        "$date": "2024-07-18T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional student with expertise in various fields",
+        "avatar": "https://example.com/avatars/14.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d1f"
+      },
+      "userId": "eEofO5bw",
+      "email": "sophia.thomas@example.com",
+      "firstName": "Sophia",
+      "lastName": "Thomas",
+      "role": "student",
+      "dateJoined": {
+        "$date": "2024-07-30T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional student with expertise in various fields",
+        "avatar": "https://example.com/avatars/15.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d20"
+      },
+      "userId": "jDNmZBnT",
+      "email": "daniel.taylor@example.com",
+      "firstName": "Daniel",
+      "lastName": "Taylor",
+      "role": "student",
+      "dateJoined": {
+        "$date": "2025-03-15T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional student with expertise in various fields",
+        "avatar": "https://example.com/avatars/16.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d21"
+      },
+      "userId": "haGDFqoy",
+      "email": "mia.moore@example.com",
+      "firstName": "Mia",
+      "lastName": "Moore",
+      "role": "student",
+      "dateJoined": {
+        "$date": "2025-02-20T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional student with expertise in various fields",
+        "avatar": "https://example.com/avatars/17.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d22"
+      },
+      "userId": "M76vHwv5",
+      "email": "matthew.jackson@example.com",
+      "firstName": "Matthew",
+      "lastName": "Jackson",
+      "role": "student",
+      "dateJoined": {
+        "$date": "2025-05-13T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional student with expertise in various fields",
+        "avatar": "https://example.com/avatars/18.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d23"
+      },
+      "userId": "CBHzq9P2",
+      "email": "ella.martin@example.com",
+      "firstName": "Ella",
+      "lastName": "Martin",
+      "role": "student",
+      "dateJoined": {
+        "$date": "2024-12-24T06:43:03.173Z"
+      },
+      "profile": {
+        "bio": "Professional student with expertise in various fields",
+        "avatar": "https://example.com/avatars/19.jpg",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Data Science",
+          "Web Development"
+        ]
+      },
+      "isActive": true
+    }
+  ],
+  "courses": [
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d24"
+      },
+      "courseId": "SZyf6A0S",
+      "title": "Course 1: Web Development Masterclass",
+      "description": "Comprehensive course on Mobile Development",
+      "instructorId": "ZyGoUOED",
+      "category": "Mobile Development",
+      "level": "intermediate",
+      "duration": 21.0,
+      "price": 184.0,
+      "tags": [
+        "Design",
+        "JavaScript",
+        "Mobile"
+      ],
+      "createdAt": {
+        "$date": "2025-01-19T06:43:03.269Z"
+      },
+      "updatedAt": {
+        "$date": "2025-06-15T06:43:03.269Z"
+      },
+      "isPublished": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d25"
+      },
+      "courseId": "aGFedjyE",
+      "title": "Course 2: Data Science Masterclass",
+      "description": "Comprehensive course on Data Science",
+      "instructorId": "OKAvOkc4",
+      "category": "Web Development",
+      "level": "intermediate",
+      "duration": 17.0,
+      "price": 99.0,
+      "tags": [
+        "Mobile",
+        "Python",
+        "Data Science"
+      ],
+      "createdAt": {
+        "$date": "2025-02-11T06:43:03.269Z"
+      },
+      "updatedAt": {
+        "$date": "2025-06-15T06:43:03.269Z"
+      },
+      "isPublished": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d26"
+      },
+      "courseId": "boIM102g",
+      "title": "Course 3: Mobile Development Masterclass",
+      "description": "Comprehensive course on Design",
+      "instructorId": "FzZYR9lV",
+      "category": "Web Development",
+      "level": "beginner",
+      "duration": 39.0,
+      "price": 147.0,
+      "tags": [
+        "Mobile",
+        "Data Science",
+        "Python"
+      ],
+      "createdAt": {
+        "$date": "2024-12-29T06:43:03.269Z"
+      },
+      "updatedAt": {
+        "$date": "2025-06-15T06:43:03.269Z"
+      },
+      "isPublished": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d27"
+      },
+      "courseId": "PBrmdD4a",
+      "title": "Course 4: Data Science Masterclass",
+      "description": "Comprehensive course on Mobile Development",
+      "instructorId": "sw8nyHbj",
+      "category": "Web Development",
+      "level": "advanced",
+      "duration": 29.0,
+      "price": 135.0,
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "Python"
+      ],
+      "createdAt": {
+        "$date": "2025-03-17T06:43:03.269Z"
+      },
+      "updatedAt": {
+        "$date": "2025-06-15T06:43:03.269Z"
+      },
+      "isPublished": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d28"
+      },
+      "courseId": "NcmftYZp",
+      "title": "Course 5: Data Science Masterclass",
+      "description": "Comprehensive course on Programming",
+      "instructorId": "ZyGoUOED",
+      "category": "Mobile Development",
+      "level": "advanced",
+      "duration": 27.0,
+      "price": 68.0,
+      "tags": [
+        "Data Science",
+        "Design",
+        "Python"
+      ],
+      "createdAt": {
+        "$date": "2025-02-27T06:43:03.269Z"
+      },
+      "updatedAt": {
+        "$date": "2025-06-15T06:43:03.269Z"
+      },
+      "isPublished": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d29"
+      },
+      "courseId": "yOr5YQUk",
+      "title": "Course 6: Data Science Masterclass",
+      "description": "Comprehensive course on Programming",
+      "instructorId": "OKAvOkc4",
+      "category": "Data Science",
+      "level": "advanced",
+      "duration": 14.0,
+      "price": 193.0,
+      "tags": [
+        "Data Science",
+        "Design",
+        "JavaScript"
+      ],
+      "createdAt": {
+        "$date": "2025-02-16T06:43:03.269Z"
+      },
+      "updatedAt": {
+        "$date": "2025-06-15T06:43:03.269Z"
+      },
+      "isPublished": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d2a"
+      },
+      "courseId": "vDo8uc2N",
+      "title": "Course 7: Design Masterclass",
+      "description": "Comprehensive course on Design",
+      "instructorId": "IYOZJg1j",
+      "category": "Programming",
+      "level": "intermediate",
+      "duration": 33.0,
+      "price": 90.0,
+      "tags": [
+        "JavaScript",
+        "Web Development",
+        "Design"
+      ],
+      "createdAt": {
+        "$date": "2025-04-13T06:43:03.269Z"
+      },
+      "updatedAt": {
+        "$date": "2025-06-15T06:43:03.269Z"
+      },
+      "isPublished": true
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d2b"
+      },
+      "courseId": "wS2jxzYS",
+      "title": "Course 8: Mobile Development Masterclass",
+      "description": "Comprehensive course on Design",
+      "instructorId": "sw8nyHbj",
+      "category": "Design",
+      "level": "beginner",
+      "duration": 20.0,
+      "price": 182.0,
+      "tags": [
+        "Web Development",
+        "Design",
+        "Data Science"
+      ],
+      "createdAt": {
+        "$date": "2025-01-16T06:43:03.269Z"
+      },
+      "updatedAt": {
+        "$date": "2025-06-15T06:43:03.269Z"
+      },
+      "isPublished": true
+    }
+  ],
+  "enrollments": [
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d2c"
+      },
+      "userId": "jDNmZBnT",
+      "courseId": "SZyf6A0S",
+      "enrollmentDate": {
+        "$date": "2025-06-08T06:43:03.328Z"
+      },
+      "completionStatus": "completed",
+      "progress": 70
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d2d"
+      },
+      "userId": "V2JfoVH8",
+      "courseId": "vDo8uc2N",
+      "enrollmentDate": {
+        "$date": "2025-03-29T06:43:03.328Z"
+      },
+      "completionStatus": "in_progress",
+      "progress": 66
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d2e"
+      },
+      "userId": "H3Hij8Ln",
+      "courseId": "wS2jxzYS",
+      "enrollmentDate": {
+        "$date": "2025-04-03T06:43:03.328Z"
+      },
+      "completionStatus": "not_started",
+      "progress": 48
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d2f"
+      },
+      "userId": "96VfJnOh",
+      "courseId": "SZyf6A0S",
+      "enrollmentDate": {
+        "$date": "2025-05-22T06:43:03.328Z"
+      },
+      "completionStatus": "not_started",
+      "progress": 69
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d30"
+      },
+      "userId": "wCTQd2Dr",
+      "courseId": "wS2jxzYS",
+      "enrollmentDate": {
+        "$date": "2025-05-06T06:43:03.328Z"
+      },
+      "completionStatus": "completed",
+      "progress": 97
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d31"
+      },
+      "userId": "haGDFqoy",
+      "courseId": "PBrmdD4a",
+      "enrollmentDate": {
+        "$date": "2025-04-05T06:43:03.328Z"
+      },
+      "completionStatus": "in_progress",
+      "progress": 52
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d32"
+      },
+      "userId": "wCTQd2Dr",
+      "courseId": "aGFedjyE",
+      "enrollmentDate": {
+        "$date": "2025-04-15T06:43:03.328Z"
+      },
+      "completionStatus": "not_started",
+      "progress": 40
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d33"
+      },
+      "userId": "waAaNv2S",
+      "courseId": "vDo8uc2N",
+      "enrollmentDate": {
+        "$date": "2025-05-25T06:43:03.328Z"
+      },
+      "completionStatus": "in_progress",
+      "progress": 59
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d34"
+      },
+      "userId": "W71zCVjt",
+      "courseId": "yOr5YQUk",
+      "enrollmentDate": {
+        "$date": "2025-05-23T06:43:03.328Z"
+      },
+      "completionStatus": "completed",
+      "progress": 5
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d35"
+      },
+      "userId": "CBHzq9P2",
+      "courseId": "SZyf6A0S",
+      "enrollmentDate": {
+        "$date": "2025-06-09T06:43:03.328Z"
+      },
+      "completionStatus": "in_progress",
+      "progress": 98
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d36"
+      },
+      "userId": "waAaNv2S",
+      "courseId": "yOr5YQUk",
+      "enrollmentDate": {
+        "$date": "2025-05-20T06:43:03.328Z"
+      },
+      "completionStatus": "in_progress",
+      "progress": 97
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d37"
+      },
+      "userId": "wCTQd2Dr",
+      "courseId": "vDo8uc2N",
+      "enrollmentDate": {
+        "$date": "2025-05-16T06:43:03.328Z"
+      },
+      "completionStatus": "in_progress",
+      "progress": 94
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d38"
+      },
+      "userId": "eEofO5bw",
+      "courseId": "boIM102g",
+      "enrollmentDate": {
+        "$date": "2025-04-06T06:43:03.328Z"
+      },
+      "completionStatus": "not_started",
+      "progress": 100
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d39"
+      },
+      "userId": "qanIeWIS",
+      "courseId": "vDo8uc2N",
+      "enrollmentDate": {
+        "$date": "2025-03-20T06:43:03.328Z"
+      },
+      "completionStatus": "in_progress",
+      "progress": 100
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d3a"
+      },
+      "userId": "eEofO5bw",
+      "courseId": "yOr5YQUk",
+      "enrollmentDate": {
+        "$date": "2025-05-18T06:43:03.328Z"
+      },
+      "completionStatus": "in_progress",
+      "progress": 77
+    }
+  ],
+  "lessons": [
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d3b"
+      },
+      "courseId": "SZyf6A0S",
+      "title": "Lesson 1: Practical Examples",
+      "content": "Detailed content for lesson 1",
+      "order": 1,
+      "duration": 45
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d3c"
+      },
+      "courseId": "SZyf6A0S",
+      "title": "Lesson 2: Introduction",
+      "content": "Detailed content for lesson 2",
+      "order": 2,
+      "duration": 99
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d3d"
+      },
+      "courseId": "SZyf6A0S",
+      "title": "Lesson 3: Introduction",
+      "content": "Detailed content for lesson 3",
+      "order": 3,
+      "duration": 33
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d3e"
+      },
+      "courseId": "SZyf6A0S",
+      "title": "Lesson 4: Case Studies",
+      "content": "Detailed content for lesson 4",
+      "order": 4,
+      "duration": 43
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d3f"
+      },
+      "courseId": "aGFedjyE",
+      "title": "Lesson 1: Practical Examples",
+      "content": "Detailed content for lesson 1",
+      "order": 1,
+      "duration": 86
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d40"
+      },
+      "courseId": "aGFedjyE",
+      "title": "Lesson 2: Introduction",
+      "content": "Detailed content for lesson 2",
+      "order": 2,
+      "duration": 85
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d41"
+      },
+      "courseId": "aGFedjyE",
+      "title": "Lesson 3: Practical Examples",
+      "content": "Detailed content for lesson 3",
+      "order": 3,
+      "duration": 83
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d42"
+      },
+      "courseId": "aGFedjyE",
+      "title": "Lesson 4: Introduction",
+      "content": "Detailed content for lesson 4",
+      "order": 4,
+      "duration": 46
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d43"
+      },
+      "courseId": "aGFedjyE",
+      "title": "Lesson 5: Advanced Topics",
+      "content": "Detailed content for lesson 5",
+      "order": 5,
+      "duration": 77
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d44"
+      },
+      "courseId": "boIM102g",
+      "title": "Lesson 1: Advanced Topics",
+      "content": "Detailed content for lesson 1",
+      "order": 1,
+      "duration": 92
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d45"
+      },
+      "courseId": "boIM102g",
+      "title": "Lesson 2: Advanced Topics",
+      "content": "Detailed content for lesson 2",
+      "order": 2,
+      "duration": 40
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d46"
+      },
+      "courseId": "boIM102g",
+      "title": "Lesson 3: Case Studies",
+      "content": "Detailed content for lesson 3",
+      "order": 3,
+      "duration": 40
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d47"
+      },
+      "courseId": "boIM102g",
+      "title": "Lesson 4: Introduction",
+      "content": "Detailed content for lesson 4",
+      "order": 4,
+      "duration": 74
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d48"
+      },
+      "courseId": "PBrmdD4a",
+      "title": "Lesson 1: Case Studies",
+      "content": "Detailed content for lesson 1",
+      "order": 1,
+      "duration": 102
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d49"
+      },
+      "courseId": "PBrmdD4a",
+      "title": "Lesson 2: Introduction",
+      "content": "Detailed content for lesson 2",
+      "order": 2,
+      "duration": 75
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d4a"
+      },
+      "courseId": "PBrmdD4a",
+      "title": "Lesson 3: Practical Examples",
+      "content": "Detailed content for lesson 3",
+      "order": 3,
+      "duration": 30
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d4b"
+      },
+      "courseId": "PBrmdD4a",
+      "title": "Lesson 4: Practical Examples",
+      "content": "Detailed content for lesson 4",
+      "order": 4,
+      "duration": 71
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d4c"
+      },
+      "courseId": "NcmftYZp",
+      "title": "Lesson 1: Introduction",
+      "content": "Detailed content for lesson 1",
+      "order": 1,
+      "duration": 68
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d4d"
+      },
+      "courseId": "NcmftYZp",
+      "title": "Lesson 2: Advanced Topics",
+      "content": "Detailed content for lesson 2",
+      "order": 2,
+      "duration": 94
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d4e"
+      },
+      "courseId": "NcmftYZp",
+      "title": "Lesson 3: Advanced Topics",
+      "content": "Detailed content for lesson 3",
+      "order": 3,
+      "duration": 101
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d4f"
+      },
+      "courseId": "yOr5YQUk",
+      "title": "Lesson 1: Practical Examples",
+      "content": "Detailed content for lesson 1",
+      "order": 1,
+      "duration": 41
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d50"
+      },
+      "courseId": "yOr5YQUk",
+      "title": "Lesson 2: Introduction",
+      "content": "Detailed content for lesson 2",
+      "order": 2,
+      "duration": 53
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d51"
+      },
+      "courseId": "yOr5YQUk",
+      "title": "Lesson 3: Case Studies",
+      "content": "Detailed content for lesson 3",
+      "order": 3,
+      "duration": 64
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d52"
+      },
+      "courseId": "yOr5YQUk",
+      "title": "Lesson 4: Practical Examples",
+      "content": "Detailed content for lesson 4",
+      "order": 4,
+      "duration": 115
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d53"
+      },
+      "courseId": "vDo8uc2N",
+      "title": "Lesson 1: Practical Examples",
+      "content": "Detailed content for lesson 1",
+      "order": 1,
+      "duration": 37
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d54"
+      },
+      "courseId": "vDo8uc2N",
+      "title": "Lesson 2: Case Studies",
+      "content": "Detailed content for lesson 2",
+      "order": 2,
+      "duration": 111
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d55"
+      },
+      "courseId": "vDo8uc2N",
+      "title": "Lesson 3: Advanced Topics",
+      "content": "Detailed content for lesson 3",
+      "order": 3,
+      "duration": 51
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d56"
+      },
+      "courseId": "vDo8uc2N",
+      "title": "Lesson 4: Practical Examples",
+      "content": "Detailed content for lesson 4",
+      "order": 4,
+      "duration": 67
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d57"
+      },
+      "courseId": "vDo8uc2N",
+      "title": "Lesson 5: Introduction",
+      "content": "Detailed content for lesson 5",
+      "order": 5,
+      "duration": 48
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d58"
+      },
+      "courseId": "wS2jxzYS",
+      "title": "Lesson 1: Case Studies",
+      "content": "Detailed content for lesson 1",
+      "order": 1,
+      "duration": 62
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d59"
+      },
+      "courseId": "wS2jxzYS",
+      "title": "Lesson 2: Advanced Topics",
+      "content": "Detailed content for lesson 2",
+      "order": 2,
+      "duration": 63
+    },
+    {
+      "_id": {
+        "$oid": "684e5d670788512607579d5a"
+      },
+      "courseId": "wS2jxzYS",
+      "title": "Lesson 3: Practical Examples",
+      "content": "Detailed content for lesson 3",
+      "order": 3,
+      "duration": 87
+    }
+  ],
+  "assignments": [
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d5b"
+      },
+      "assignmentId": "kw9z5q1W",
+      "courseId": "SZyf6A0S",
+      "title": "Assignment 1: Homework",
+      "description": "Detailed instructions for assignment 1",
+      "dueDate": {
+        "$date": "2025-07-06T06:43:04.287Z"
+      },
+      "maxScore": 100
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d5c"
+      },
+      "assignmentId": "J21nLJHh",
+      "courseId": "SZyf6A0S",
+      "title": "Assignment 2: Quiz",
+      "description": "Detailed instructions for assignment 2",
+      "dueDate": {
+        "$date": "2025-07-09T06:43:04.287Z"
+      },
+      "maxScore": 100
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d5d"
+      },
+      "assignmentId": "BycsQC1C",
+      "courseId": "aGFedjyE",
+      "title": "Assignment 1: Quiz",
+      "description": "Detailed instructions for assignment 1",
+      "dueDate": {
+        "$date": "2025-06-28T06:43:04.287Z"
+      },
+      "maxScore": 100
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d5e"
+      },
+      "assignmentId": "3cKKZfOO",
+      "courseId": "boIM102g",
+      "title": "Assignment 1: Quiz",
+      "description": "Detailed instructions for assignment 1",
+      "dueDate": {
+        "$date": "2025-07-14T06:43:04.287Z"
+      },
+      "maxScore": 100
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d5f"
+      },
+      "assignmentId": "g1g0pUzI",
+      "courseId": "boIM102g",
+      "title": "Assignment 2: Homework",
+      "description": "Detailed instructions for assignment 2",
+      "dueDate": {
+        "$date": "2025-07-12T06:43:04.287Z"
+      },
+      "maxScore": 100
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d60"
+      },
+      "assignmentId": "UWNFnz1s",
+      "courseId": "PBrmdD4a",
+      "title": "Assignment 1: Quiz",
+      "description": "Detailed instructions for assignment 1",
+      "dueDate": {
+        "$date": "2025-06-26T06:43:04.287Z"
+      },
+      "maxScore": 100
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d61"
+      },
+      "assignmentId": "QL5p2u29",
+      "courseId": "NcmftYZp",
+      "title": "Assignment 1: Homework",
+      "description": "Detailed instructions for assignment 1",
+      "dueDate": {
+        "$date": "2025-07-15T06:43:04.287Z"
+      },
+      "maxScore": 100
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d62"
+      },
+      "assignmentId": "MAoDtxos",
+      "courseId": "yOr5YQUk",
+      "title": "Assignment 1: Quiz",
+      "description": "Detailed instructions for assignment 1",
+      "dueDate": {
+        "$date": "2025-07-07T06:43:04.287Z"
+      },
+      "maxScore": 100
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d63"
+      },
+      "assignmentId": "KAGa9hOT",
+      "courseId": "yOr5YQUk",
+      "title": "Assignment 2: Project",
+      "description": "Detailed instructions for assignment 2",
+      "dueDate": {
+        "$date": "2025-07-14T06:43:04.287Z"
+      },
+      "maxScore": 100
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d64"
+      },
+      "assignmentId": "eJsyDvqJ",
+      "courseId": "vDo8uc2N",
+      "title": "Assignment 1: Homework",
+      "description": "Detailed instructions for assignment 1",
+      "dueDate": {
+        "$date": "2025-07-11T06:43:04.287Z"
+      },
+      "maxScore": 100
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d65"
+      },
+      "assignmentId": "QG36L2bG",
+      "courseId": "wS2jxzYS",
+      "title": "Assignment 1: Quiz",
+      "description": "Detailed instructions for assignment 1",
+      "dueDate": {
+        "$date": "2025-07-06T06:43:04.287Z"
+      },
+      "maxScore": 100
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d66"
+      },
+      "assignmentId": "buoxLsuK",
+      "courseId": "wS2jxzYS",
+      "title": "Assignment 2: Project",
+      "description": "Detailed instructions for assignment 2",
+      "dueDate": {
+        "$date": "2025-07-04T06:43:04.287Z"
+      },
+      "maxScore": 100
+    }
+  ],
+  "submissions": [
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d67"
+      },
+      "assignmentId": "QG36L2bG",
+      "userId": "qanIeWIS",
+      "submissionDate": {
+        "$date": "2025-06-10T06:43:04.450Z"
+      },
+      "content": "Submission content for assignment Assignment 1: Quiz",
+      "score": 64,
+      "feedback": "Good work! Keep it up."
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d68"
+      },
+      "assignmentId": "3cKKZfOO",
+      "userId": "wCTQd2Dr",
+      "submissionDate": {
+        "$date": "2025-06-02T06:43:04.450Z"
+      },
+      "content": "Submission content for assignment Assignment 1: Quiz",
+      "score": 82,
+      "feedback": "Good work! Keep it up."
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d69"
+      },
+      "assignmentId": "BycsQC1C",
+      "userId": "H3Hij8Ln",
+      "submissionDate": {
+        "$date": "2025-06-01T06:43:04.450Z"
+      },
+      "content": "Submission content for assignment Assignment 1: Quiz",
+      "score": 79,
+      "feedback": "Good work! Keep it up."
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d6a"
+      },
+      "assignmentId": "buoxLsuK",
+      "userId": "OZOXZ5T3",
+      "submissionDate": {
+        "$date": "2025-06-11T06:43:04.450Z"
+      },
+      "content": "Submission content for assignment Assignment 2: Project",
+      "score": 87,
+      "feedback": "Good work! Keep it up."
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d6b"
+      },
+      "assignmentId": "QL5p2u29",
+      "userId": "V2JfoVH8",
+      "submissionDate": {
+        "$date": "2025-06-05T06:43:04.450Z"
+      },
+      "content": "Submission content for assignment Assignment 1: Homework",
+      "score": 82,
+      "feedback": "Good work! Keep it up."
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d6c"
+      },
+      "assignmentId": "MAoDtxos",
+      "userId": "V2JfoVH8",
+      "submissionDate": {
+        "$date": "2025-06-12T06:43:04.450Z"
+      },
+      "content": "Submission content for assignment Assignment 1: Quiz",
+      "score": 95,
+      "feedback": "Good work! Keep it up."
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d6d"
+      },
+      "assignmentId": "BycsQC1C",
+      "userId": "W71zCVjt",
+      "submissionDate": {
+        "$date": "2025-06-05T06:43:04.450Z"
+      },
+      "content": "Submission content for assignment Assignment 1: Quiz",
+      "score": 83,
+      "feedback": "Good work! Keep it up."
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d6e"
+      },
+      "assignmentId": "kw9z5q1W",
+      "userId": "CBHzq9P2",
+      "submissionDate": {
+        "$date": "2025-06-11T06:43:04.450Z"
+      },
+      "content": "Submission content for assignment Assignment 1: Homework",
+      "score": 75,
+      "feedback": "Good work! Keep it up."
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d6f"
+      },
+      "assignmentId": "UWNFnz1s",
+      "userId": "V2JfoVH8",
+      "submissionDate": {
+        "$date": "2025-06-05T06:43:04.450Z"
+      },
+      "content": "Submission content for assignment Assignment 1: Quiz",
+      "score": 74,
+      "feedback": "Good work! Keep it up."
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d70"
+      },
+      "assignmentId": "BycsQC1C",
+      "userId": "QikXVqEz",
+      "submissionDate": {
+        "$date": "2025-06-13T06:43:04.450Z"
+      },
+      "content": "Submission content for assignment Assignment 1: Quiz",
+      "score": 77,
+      "feedback": "Good work! Keep it up."
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d71"
+      },
+      "assignmentId": "3cKKZfOO",
+      "userId": "V2JfoVH8",
+      "submissionDate": {
+        "$date": "2025-06-08T06:43:04.450Z"
+      },
+      "content": "Submission content for assignment Assignment 1: Quiz",
+      "score": 82,
+      "feedback": "Good work! Keep it up."
+    },
+    {
+      "_id": {
+        "$oid": "684e5d680788512607579d72"
+      },
+      "assignmentId": "QG36L2bG",
+      "userId": "yL5BbI9D",
+      "submissionDate": {
+        "$date": "2025-06-05T06:43:04.450Z"
+      },
+      "content": "Submission content for assignment Assignment 1: Quiz",
+      "score": 92,
+      "feedback": "Good work! Keep it up."
+    }
+  ]
+}
